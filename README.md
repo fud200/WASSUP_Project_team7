@@ -1,6 +1,6 @@
 # WASSUP_Project_team7
 
-<img src = 'imgs/team_logo.png',width="200" height="200">
+<img src = 'imgs/team_logo.png',width="200" height="200"/>
 
 ## EST soft WASSUP AI 개발과정 2기 프로젝트
 **(Team 7) 77ㅣ리77ㅣ리**
