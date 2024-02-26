@@ -1,4 +1,5 @@
 # WASSUP_Project_team7
+<img src = 'imgs/est_logo.png'>
 ## EST soft WASSUP AI 개발과정 2기 프로젝트
 **(Team 7) 77ㅣ리77ㅣ리**
 **팀원 및 담당 업무**
