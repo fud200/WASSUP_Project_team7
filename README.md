@@ -1,7 +1,7 @@
 # WASSUP_Project_team7
 
 
-<img src = 'imgs/est_logo.png'>
+<img src = 'imgs/team_logo.png'>
 
 
 ## EST soft WASSUP AI 개발과정 2기 프로젝트
