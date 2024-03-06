@@ -16,5 +16,6 @@
 
 ## Files
   + **EDA.ipynb** : EDA를 위한 파일입니다. 'Dataset_for_EDA.zip' 파일을 데이터로 사용합니다.
-  + **Data_Preprocessing.ipynb** : 파생변수 생성, 데이터 이상치 제거를 위한 파일입니다. 'Dataset_for_EDA.zip' 파일을 데이터로 사용합니다.
+  + **Data_Preprocessing.ipynb** : 파생변수 생성, 데이터 이상치 제거를 위한 파일입니다.
+'Dataset_for_EDA.zip' 파일을 데이터로 사용합니다.
   + **Modeling.ipynb** : 모델 학습을 위한 파일입니다. 'Dataset.zip' 파일을 데이터로 사용합니다.
